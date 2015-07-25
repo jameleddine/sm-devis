@@ -265,7 +265,7 @@ color: #ffffff;
     padding-right:  5%;
     padding-bottom: 10px;
     padding-top: 10px;
-    background-color: #BFBFBF;
+    background-color: #3a7ed3;
     
 }
 .dashboard-div-wrapperModifier{
@@ -324,6 +324,7 @@ color: #ffffff;
 }
 
 .travaux{
+    height: 300px;
      margin-bottom: 40px;
     margin-top: 20px;
     margin-right: 5%;
@@ -333,7 +334,7 @@ color: #ffffff;
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #BFBFBF;
+    background-color: #18BA8C;
 }
 
 .appel-pro{

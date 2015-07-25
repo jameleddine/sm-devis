@@ -1,5 +1,7 @@
 @extends('template')
 @section('content')
+
+<!--this is a test commit-->
 <header id="myCarousel" class="carousel slide">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -158,10 +160,11 @@ voir style.css
             
                  <div class="col-md-3 col-sm-3 col-xs-6">
                     <div class="dashboard-div-wrapperModifierTra">
-                        <i  class="fa fa-venus dashboard-div-icon" ></i>
+                        <img src="salledebain.jpg" width="100%" height="100%"/>
                         
                          <h5>Chauffage et Climatisation </h5>
-                    </div>
+
+                </div>
                 </div>
                  <div class="col-md-3 col-sm-3 col-xs-6">
                     <div class="dashboard-div-wrapperModifierTra">
