@@ -1,6 +1,6 @@
 @extends('template')
 @section('content')
-
+<!----first commit-->
    <div class="formulaireInscription">
     <div id="left" class="zoneleft">
 
