@@ -160,8 +160,7 @@ voir style.css
             
                  <div class="col-md-3 col-sm-3 col-xs-6">
                     <div class="dashboard-div-wrapperModifierTra">
-                        <img src="salledebain.jpg" width="100%" height="100%"/>
-                        
+<i  class="fa fa-edit dashboard-div-icon" ></i>
                          <h5>Chauffage et Climatisation </h5>
 
                 </div>
